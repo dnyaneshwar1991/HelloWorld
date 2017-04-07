@@ -1,2 +1,2 @@
 # HelloWorld
-This ReadMe file for HelloWolrd Project
+This is ReadMe file for HelloWolrd Project
